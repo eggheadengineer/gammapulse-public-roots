@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-19",
+  "merkle_root": "1e4c9a8c57fadc020901e7be3dfb794414337af6ca7990ca16a3c1d5449532db",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-06-20T01:56:43.227002Z",
+  "signal_count": 10,
+  "promotion_count": 0,
+  "outcome_count": 10,
+  "signal_by_bucket": {
+    "WATCHLIST": 10
+  },
+  "signal_by_direction": {
+    "SHORT": 7,
+    "LONG": 3
+  },
+  "outcome_by_label": {
+    "FLAT": 10
+  },
+  "signal_leaves": [
+    "82268b04073a3db493f99865739fbca5ad6ebfa517699793abf1bf9ea4ef7c0f",
+    "5dddef682aaf3b92c2f19b997763fb4c66cd94b326fb7e005a811c79d913f6a3",
+    "63f0b84c184dc256d47e0edeefe968ec6e01da3e550a5bf76cf4bf544b4483b0",
+    "00d409d38229094ddc7d37695eee772416e25d4c3e2762af793f0b329ef9021a",
+    "16e7077b91b011e32ff864db668ca4279c50f540a94378a73d383b1f8a3c1d37",
+    "b909bdca22ccf7feba8707d2dfaea33313165593c84d2b807ab62118a7f9d763",
+    "648fe509fd2afce1ded53060523a3d5a82a0c71a4cf961d1946868a3ca648e76",
+    "c6c46e73fcf261d6385f99769888d4dd00f6eeb45d54fb6333609d2710ff3370",
+    "56e379687aad750be988ddefabb97cafcc2656e2f63ead6b808366662072ad4c",
+    "20086d41f32b41f62422561f9540f95e306c87171ecca38145d18aba6d1c7021"
+  ],
+  "outcome_leaves": [
+    "ff0ab335672091d67ecd91af21aadd33ea22e12f69899eddebb387852becdb53",
+    "168941caf87e9f7ef95faeaf27a4e59cda821819509598e90de4ad20ea4b8992",
+    "d74da1eb353dbb305238d1fbbb342bf715897475f6e3f29c90ae9bfffc0f8413",
+    "86f23e412372360c7e4cc58bc7fbe0492e472d4977df672147ee05763b7b0a12",
+    "2ee53eb23372b32db5d528231c0a3c2e58a8fee70a980a5b1480f173dba29293",
+    "dc42779b28e8a839e7a5cc0ee08bf0779defe9c0d44a07e9d51024e28f58a69d",
+    "3438787d2d68419f7192ae92456d83d3720c41abef3745f0ff4b3e45d3fbf8a8",
+    "1a154576fbb06960b2e0a9dbbc073f27a91f990b507e79a1b40080641d1b2ce0",
+    "cc5ab4ae4f8d015fa158790de91980a85f4537d3a40089499c42dc48d042fc4c",
+    "d95004e59279100bdc08ded20f672ccf7470c86ab9e720fa76e4e8dc437f9c2c"
+  ]
+}
