@@ -1,0 +1,16 @@
+{
+  "date": "2026-06-25",
+  "merkle_root": "901131d838b17aac0f7885b81e03cbdc9f5157a00343d30ab22083685ed1416a",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": null,
+  "computed_at_utc": "2026-06-25T20:01:27.805456Z",
+  "signal_count": 0,
+  "promotion_count": 0,
+  "outcome_count": 0,
+  "signal_by_bucket": {},
+  "signal_by_direction": {},
+  "outcome_by_label": {},
+  "signal_leaves": [],
+  "outcome_leaves": []
+}
