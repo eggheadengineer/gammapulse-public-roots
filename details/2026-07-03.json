@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-03",
+  "merkle_root": "99346c5b079779e4081c40dc68738186c81e17d2ae6f0f3554455184e75fcfd2",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-07-03T20:01:03.168988Z",
+  "signal_count": 12,
+  "promotion_count": 1,
+  "outcome_count": 12,
+  "signal_by_bucket": {
+    "WATCHLIST": 12
+  },
+  "signal_by_direction": {
+    "LONG": 7,
+    "SHORT": 5
+  },
+  "outcome_by_label": {
+    "FLAT": 12
+  },
+  "signal_leaves": [
+    "8dda25e7d87b42401726da4ddff34a90a1d851460c33ff44e96da3e3836ad8b0",
+    "ad8f826e17fc5827442921bad28507bc4f85f81ad5820122d3a907381d647b64",
+    "d29dc94c77f1de7ab189e9e9cd4559d0eac621d0c3bcb0a97ab577cbc8801a6b",
+    "68a5e205b5dbf505075e84bee686a0f32971b06ca3ec27fc530e57509121fee1",
+    "77dad664eb027fe5638c992eae2ce49a0fffc72b0862898b33fcba1a71b7ca1e",
+    "22606228b14b42f39c4c80ba8d31d0f40fdedc77b00d271c0fb3ecfc69ad68cb",
+    "e3ebe8265215252fd7934eaccf67a81732e5c92803e7b13862bbe2c3ee92d591",
+    "995fd263db4db78b7f64d760fea9a279db3864af29a125918082d5bcf6e55cc9",
+    "9bacdb746a0ea925d7691f02c32ad325de29c4c2c32c68fb2e6649c8f20858f8",
+    "dcec4d0efcfa2eab66a165e1c4fe475db03ac182f9315fd2ebd412e5c0f955f4",
+    "58674abaa088c241f328757a98b5e9e3dc0ea8a99600d343739f7d92ae992e4b",
+    "e92cbe0369483e9ed641adb24ccaaf04b1afbcfaddc28215c74e43d962171240",
+    "6a8ca3ddc54c92d5cfc0678493bf6984ec036701b6e07dc273aac8b76675ccf0"
+  ],
+  "outcome_leaves": [
+    "de603ba67683bee3b20c459000a77ce315db9d931fc3098704cae49b1c06d582",
+    "06f50d59e97e3d18c2e0584e40744b43eef0a13967e8796da106e5e518601a25",
+    "865ff246abe54395dcb94addb73bc2aadabbe609d43322c0fb680e2d59cbfd67",
+    "d1f1bc6bb8c1d5167d3e23bd40a083e5c8ac7dc3228c837aa9d57b097382292e",
+    "cf4d80af07437bdd898ebb28b9ac5cc5d0a3be2d2636de18bfc813b90db064f7",
+    "c34f9f0cffe456429ab49a36c757874f1cb1cde2edb9c1da36f80efa27e4ffa5",
+    "194d8b9a4d11440fcdf02be2257ece09ec524e6f025ba07e09fd226b73371cc8",
+    "470d7ceda762f64c48822ae0dbb3b6275bcf274b0292bcbffaa0a39e8a233304",
+    "576e9d295e6cbaa42ddeaf776c36d77d220f6a5f09a3de04998ff4937c6d2524",
+    "bcc9ca154db573bad3e734298e88e737a7694757531f6707ee240a551f5c04f0",
+    "22bcfcfc58c8b0cefb4f69187faca23e53317c48bc8bff9cceb531eaafc1d735",
+    "56db191d5292f42b6a07af961465beae223eeffc8ca34199e2d530948f2251a7"
+  ]
+}
