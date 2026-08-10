@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-10",
+  "merkle_root": "5e5506dc8f5f43bfbaf0cd85ad2b39b92c181fa698837f62afac6beadd76ebd3",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-08-10T20:01:00.285668Z",
+  "signal_count": 10,
+  "promotion_count": 3,
+  "outcome_count": 10,
+  "signal_by_bucket": {
+    "WATCHLIST": 9,
+    "ELITE_GAP_SHORT": 1
+  },
+  "signal_by_direction": {
+    "LONG": 6,
+    "SHORT": 4
+  },
+  "outcome_by_label": {
+    "WIN": 4,
+    "FLAT": 3,
+    "LOSS": 3
+  },
+  "signal_leaves": [
+    "7cf4b8e741b84e86790c669fb74b72f8663e0616acf31f0d3df65222158b1780",
+    "8497697ca79b1f71bdd38c915b49a9ded3bf8d60b423e2349f36597c78117457",
+    "2d62ffe6d9d16f3b94d76bcff68f20491728f07b8938d9c6577d547393b258a6",
+    "44a028b4d3953b019ca8ec89a74355c28a9cf118a6901c67e74b436169786d4a",
+    "6866552890bc8c623d89dbf5c464cae3e7df707b215ae6d0f0607282edc038f9",
+    "f4ca0e2a85e456348bfe4c7ed0fe4d71808be4f531dfd8b7c294723bd5fcb0e7",
+    "bcad619355ba645ae398eba9bd739bcf71a2efa72b2576f35217ad7cbfd97be5",
+    "d8b85dad70de2ad4bc8020d4c03d7c6002acc688022037fca567daba2d2a03bb",
+    "1f9526046e881da157279b31a85eb83cf56c2f84dec85dc1b93c26a010e805e3",
+    "e0bf43c10dff5d1593823699000454ef9be8bbbabc0bae99f267c7856356891e",
+    "1b11c651497b5a3b554b0fd8c37e5fd4eb1430da137e348e63ea033d8a554b26",
+    "f627d2164ba23cb8e14f3e2676bbeefbaeff99063b1314984d696af5952f78d7",
+    "0b972cc03536352b70adcdb169923de60db89792fced5a2482af1d2ab6c08fc2"
+  ],
+  "outcome_leaves": [
+    "14bdce2f93ba3474f3e5b8173507f4638fcf8ac9deb5c78b5c8cd70d6aafe49f",
+    "a4cd30e42ee6487db44ccfa8d2286a1286d05d5702d976db59106901e50f7ebd",
+    "b4e70218549c645ca0a3eb1d9cc5d994defc5c95c62092370c24981ab7a167d9",
+    "d69ec01203d568ed3a83da1263f211cde1527cb66d53d0cec73804e36c77e6f9",
+    "94f54e411fa67f13d1584c14cfdc6d1be4214b6886575ae2077898933ac84a50",
+    "91a7fe06c75e452a1f715365f0f373ca0c0394f5b9e112f09bfb6e7557981f12",
+    "bd4eac9256a3393002c6b84ee3262a9410a5eef159be8c47ea8cf4c258157a92",
+    "99a7c66acea77331e496162798a35efcf64f9dafb7b46da4e1b08facd7e7f2e9",
+    "88e05022d4a0f3b1ef112f00fcf7580e70b35a11b1d7793f0a851faa9a830a39",
+    "b87be35e9e422a2930a5053ea0e8d28fe31926a13ad5e25f0904bfca408143e6"
+  ]
+}
