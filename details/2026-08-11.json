@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-11",
+  "merkle_root": "65290498a7735e4aa30fd7ff8d1889f0e8efae6bc04c170f0f11140860d89578",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-08-11T20:01:00.275252Z",
+  "signal_count": 9,
+  "promotion_count": 1,
+  "outcome_count": 9,
+  "signal_by_bucket": {
+    "ELITE_GAP_SHORT": 1,
+    "ELITE_GAP_LONG": 2,
+    "WATCHLIST": 6
+  },
+  "signal_by_direction": {
+    "SHORT": 3,
+    "LONG": 6
+  },
+  "outcome_by_label": {
+    "FLAT": 5,
+    "WIN": 3,
+    "LOSS": 1
+  },
+  "signal_leaves": [
+    "86bf2de4e8f4e3c42cf1021f327ee64f471adbced515050beb477d8289755450",
+    "3fbfb51a68e370a3a8bd2e3fe1697c1593cc8fc385b96ba480973e82f38442be",
+    "139d895f5f57573369c2aea8a468cb3162167a3dcb94b6bfea90f5947b013424",
+    "790e4be28f5dde8bf8938ada0bd80c5d606d3f5d2e806448b5e664c18d40fe11",
+    "8e4028dcc4056f23f0f18a4ab292f3f16ac8abe5050e1b9c6275f596c573cf2b",
+    "bba39fe2bda3e7764a5681eca5f4674437e5caf6136ebe8e14afd643eae3de1e",
+    "6e14fbeba329dff9fad1d49c937d225a284e5d876481effd2f29cac8b74ab584",
+    "775fdf6e6c76d820fc6846a3ffb78e8920114ee8c312dfa6b39aef90e39a53a9",
+    "f9ffdb498a7db6483eb465035289d3798c1aefe0fb073d12b2279308d9f86b73",
+    "75dc7b440dba401c06e6605d14112c951b5efd903e8bd0be543712ec3b3b86bf"
+  ],
+  "outcome_leaves": [
+    "fb7093c6c02694a882da2e6eb89663c9e78a89fcc5a3f1d66f6a5f749a0c45f4",
+    "ea58b80d5a3718cf6acc489d71a30da715ae72f8308a27408b73854961b55bd2",
+    "202969ac0ee679697b793ef2b19a5a3cf1a8bda2e00e21c4c115b74da5c3125b",
+    "f3d19d525f064147aafbef2106160ae9af7871513a91686d24e3680afc9cf21f",
+    "d8a20a0f516ed23542f12b1629eee1c57a17c5bfe290c52352ec98183769af1d",
+    "916f6e37c4ed40242bcc34f1817f35b86fb506dccb643bb156e08876be32b48f",
+    "1ed30679cd3d192d66aa58233615c3b5afe873de8475064e7384400125ee8601",
+    "fb02529b0d74dc65fee43f8a6c1af81789d9a561e2f3e9552bc075c314b85898",
+    "a540504cc3aef102a8d653a71375f5110f5b08baea32de049b2bd82b66a4eca8"
+  ]
+}
