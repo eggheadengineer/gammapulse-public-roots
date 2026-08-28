@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-28",
+  "merkle_root": "79fdddc1b80f1c747989e92579fa9b9f18fd725ef822a51ce4b376f56d7f59c2",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-08-28T20:01:01.278964Z",
+  "signal_count": 7,
+  "promotion_count": 0,
+  "outcome_count": 7,
+  "signal_by_bucket": {
+    "WATCHLIST": 6,
+    "ELITE_GAP_SHORT": 1
+  },
+  "signal_by_direction": {
+    "SHORT": 6,
+    "LONG": 1
+  },
+  "outcome_by_label": {
+    "MFE_BEYOND_TARGET": 2,
+    "FLAT": 2,
+    "LOSS": 3
+  },
+  "signal_leaves": [
+    "ac75811bdfdd54f77fc76ce8bf5b7b5d2555d97d5e6fcd65960792ad3f62f676",
+    "9435b67a46046ffd62c6853c6b5fb368cee6ecc4be001f6347f9826202eb9102",
+    "a0f6470b3de742fcecdcc5a357527fbfb49c86c64e0c85999c22b604b4de1e0d",
+    "a2ed77590cc87858b831a55d46236fe0e5f694d47389d59e38534a7fb7a88b49",
+    "2a3e51c3f2a7a0c2c2eafb3b6472ccd85f099a768c9b3ebb826d69fc7ea1416e",
+    "0be84b91c4768cd27632f456911fc160fa1b5b4c4d45502c7323b103846ccb6a",
+    "b57f19526f5053c34deb41e1b908177738ee67cf3d447122a4384000674c8b69"
+  ],
+  "outcome_leaves": [
+    "46a56601da0f03dc156c37e29b438c218dec8db3e47c0e0fd2021b357170f219",
+    "d246f0e7398842e3105e2a0e933ca01d86c20b27eaded686c87965bf49463f30",
+    "6de3ceab57ca72522c2314ec16652612aab766925b6c76a231be698f1e817efe",
+    "34406be347f45246bfb18110579f09dd4702f39c85676cb71fbf89a8b9b01606",
+    "abcb5a1a779c3d387aa308a11bce329897ae012e428ce9ffc114b389c3e8fd9c",
+    "21a81234fc45d97ff9314de5021df11f18aee12da1ebc6ff16162cf519967ea0",
+    "f9532c9e8861f550cfc012cab0a040cec7d98cc983940b7ce57fa5f9e57af1d6"
+  ]
+}
