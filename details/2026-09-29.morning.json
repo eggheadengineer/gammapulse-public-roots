@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-09-29T12:15:30.519289+00:00",
+ "count": 3,
+ "cutoff_et": "08:15",
+ "date": "2026-09-29",
+ "ids": [
+  "20260929-XPEV-SHORT-06b9db",
+  "20260929-NIO-SHORT-cc8831",
+  "20260929-MU-LONG-533473"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "34a72cdc1c3079ec7d41e81a10ed6c4719f148891ee2b4d0d093f817c5bfab88",
+  "89783c0fbdeeef3de41ebc60f6a8f2237a8ea1fd71f1b3cc819cc3433dd538f0",
+  "a57edf25db47d7461e3181a19fb0c35eafa80325d2f10f7d586ff0419d5a4101"
+ ],
+ "root": "f6c2442da2ec8e8bd6b50d3a5c3127f98f166c533e0b8f684a6e1c2fd458411d"
+}
