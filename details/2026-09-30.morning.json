@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-09-30T12:15:30.242572+00:00",
+ "count": 2,
+ "cutoff_et": "08:15",
+ "date": "2026-09-30",
+ "ids": [
+  "20260930-SMCI-LONG-ce1b79",
+  "20260930-SOFI-SHORT-a28deb"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "a7bf1e406978404005fa3081cdb73a3b9a567159d56507b27b812e6afbdbc525",
+  "c63be08e84fd26130210fbd38c7379fb8025432f47f6257d8312c5e996766071"
+ ],
+ "root": "9ac018ef33ba33b30a60a5a2e05d6f315288f451dca39ac1bff9e9d5e8c7e005"
+}
