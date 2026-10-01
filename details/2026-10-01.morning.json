@@ -1,0 +1,24 @@
+{
+ "computed_utc": "2026-10-01T12:15:30.232918+00:00",
+ "count": 6,
+ "cutoff_et": "08:15",
+ "date": "2026-10-01",
+ "ids": [
+  "20261001-GOOG-LONG-e6109d",
+  "20261001-ACN-LONG-daf84b",
+  "20261001-CTVA-SHORT-6736ae",
+  "20261001-AMD-LONG-d000ee",
+  "20261001-MRVL-LONG-7d8161",
+  "20261001-INTC-LONG-613990"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "3fab50f758375d473ac3c3e90d8351923deab2f518cc3960bb3dea9c209d2398",
+  "4fcb29ff673e33cdce655598ab985ba5413d274f6d2f476f054044f8f3ad0134",
+  "5f8c19dd946c4f7f4a5b89257957c3ed38d55b0b2d9a0087ad4ca32d32295bc3",
+  "6aa0669b29f5d513bfaadb659ed83b8d411776137d155f1526c593fd6cf398fc",
+  "82e8ab112ec5bab697dbf51d569fd28904b14c7ac0cd8d6be71b6f3768efbdd7",
+  "c339124c805c7dee44fc52ca9918509318e23dd3338defa5567d4f0e81ba28db"
+ ],
+ "root": "250f45df2806cc425359f1fe20f611a5cca4d4306c06b491c1d2de92cca7f562"
+}
