@@ -1,0 +1,22 @@
+{
+ "computed_utc": "2026-10-02T12:15:31.337293+00:00",
+ "count": 5,
+ "cutoff_et": "08:15",
+ "date": "2026-10-02",
+ "ids": [
+  "20261002-MRVL-LONG-b4c2d4",
+  "20261002-WDC-SHORT-715bdf",
+  "20261002-INTC-LONG-553c06",
+  "20261002-NKE-SHORT-fa6830",
+  "20261002-MRNA-LONG-8a70d6"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "3de0ea4f184bb7681ff477a05c1631b19ae392a0009bf767cef3d9a115d2daa9",
+  "45835e1d16831cd15564b58730a8d4e874ccc50a9a67d9f4fef11940ea43e60c",
+  "4aeb65a0cb9535e241ec75b413e1a9df5137bfadec570c57c32675730e9dbee2",
+  "cf138a47349673134c18516c9079650e9959b93201d9b5774e9a607ef68dfb1e",
+  "d0d8474849ec7338352eaf09972c60dd649b259b0334820c1dbe386ecb0995c5"
+ ],
+ "root": "464538dec7ec567e62734df7155e4ba29da6e9c8dd39f65cdcd3834b8177a844"
+}
