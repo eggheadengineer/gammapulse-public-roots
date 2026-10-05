@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-05",
+  "merkle_root": "9ab849e6ad5e35aa0ea6cf2925f50e13d4e3650d6bce31861378bb9c0dacab10",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-10-05T20:01:00.478469Z",
+  "signal_count": 3,
+  "promotion_count": 1,
+  "outcome_count": 3,
+  "signal_by_bucket": {
+    "WATCHLIST": 3
+  },
+  "signal_by_direction": {
+    "LONG": 3
+  },
+  "outcome_by_label": {
+    "FLAT": 3
+  },
+  "signal_leaves": [
+    "55bf4c97a85ead02a6df9c2e256a33357b4802298a6a18fd5104cb9ec936cc40",
+    "98320ed60c23298a1349291e6a93c81d7a09165815d65a7a723c4e05cecdd48b",
+    "a032a8dbb6670d2eb77325c29b90df67dc68b3230d808b42514ca72c1624e8d9",
+    "8eeb12611268e62350f17ab0aa451b65dc6cf4867985baf943ee9af93b974ee0"
+  ],
+  "outcome_leaves": [
+    "6227d9a40465b0d1c4e452219c1be55cd7479b53ed2cffe7a465d1e72a47ac58",
+    "b9368a88b2b7967c1f242e0f9d085519a39c023002b616107c19d895f6c1fcc9",
+    "f7a9800d76e05c64c141db365650705c21125d9ca0440567972a5c0742f9a430"
+  ]
+}

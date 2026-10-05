@@ -1,0 +1,14 @@
+{
+ "computed_utc": "2026-10-05T12:15:31.021856+00:00",
+ "count": 1,
+ "cutoff_et": "08:15",
+ "date": "2026-10-05",
+ "ids": [
+  "20261005-PBR-LONG-f73338"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "55bf4c97a85ead02a6df9c2e256a33357b4802298a6a18fd5104cb9ec936cc40"
+ ],
+ "root": "55bf4c97a85ead02a6df9c2e256a33357b4802298a6a18fd5104cb9ec936cc40"
+}
