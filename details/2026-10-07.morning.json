@@ -1,0 +1,14 @@
+{
+ "computed_utc": "2026-10-07T12:15:30.813832+00:00",
+ "count": 1,
+ "cutoff_et": "08:15",
+ "date": "2026-10-07",
+ "ids": [
+  "20261007-OPEN-SHORT-6f8de9"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "16a64e48459b1edc643b76ad27cb621868873ffab6433eaee70e149010b5c0b4"
+ ],
+ "root": "16a64e48459b1edc643b76ad27cb621868873ffab6433eaee70e149010b5c0b4"
+}

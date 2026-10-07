@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-07",
+  "merkle_root": "d7ceb1b069887b74a60ffd7f38860e4af8fc4faa328695a8f02ae4e7884402ff",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-10-07T20:01:00.469562Z",
+  "signal_count": 9,
+  "promotion_count": 2,
+  "outcome_count": 9,
+  "signal_by_bucket": {
+    "WATCHLIST": 8,
+    "ELITE_GAP_SHORT": 1
+  },
+  "signal_by_direction": {
+    "SHORT": 9
+  },
+  "outcome_by_label": {
+    "FLAT": 5,
+    "LOSS": 4
+  },
+  "signal_leaves": [
+    "16a64e48459b1edc643b76ad27cb621868873ffab6433eaee70e149010b5c0b4",
+    "883724b937e6ae710c3f2abd36a342d8b3e6cceb146f1dc4b41a0d4bc7bf39f1",
+    "16645f287dba95acbc1c1eb2999aeb61e3789f461b941d741251f71391dd37d9",
+    "ee4adb7961c97c5906216692ec70469e2fd9d75c2af36543def94127a32ade99",
+    "db82e7fcabd7329d2763bad29fa0b5e738424b1e6a90e243d43bc5d78d10b582",
+    "f45f6a3c81698b2a38364e52b61743b4843be047ec224d22d1b3dc6b8e199b8e",
+    "1517e2a79c9eaba6a19d9cf760d09960c38e264368906924dd68efa1ed9cc0db",
+    "a7412a97f8d4d7ba4eef3d136b643f7e6392b640029026072a2a9b119f61a1dc",
+    "50d032108b21e14023859c7b4b527a0955f271597708035b01d9257432082780",
+    "28fdd2d597f005b4c48a4026614913c9251547fcd2f7ee793de2886bbd059a8a",
+    "220c174be3c6eee804adf46d7413e9c609b1ff6e32d5750bf210a8e8fb829763"
+  ],
+  "outcome_leaves": [
+    "4595f0ff3727c95ebc2b44f5f7071d880ecdc3af9add3f4598b44fca836bd6e1",
+    "f44ca990abad73f1f35a9fc5e2e30207b67cfaaa19642055bc7425a6ff9a68cb",
+    "7296f20b069b86f04f4461546b1a9f5ab81c2e347285fe86dea5f4573d3ad816",
+    "e906549e3808dbc1644468ed294c000b0e6269945f5fe49ba6f57c07a349766f",
+    "e780df6e4d0a0dca69d1a689f14448d47bb28ab985c1765601ff84cb1850289e",
+    "0e053f7125cff65e34a41d3c1b0c24f64bb08e2cf2ab183f034c49c970efc2c2",
+    "433c66c39c4378ffacd90defcff635d6dd6cfeea303d48b5b192496521c45254",
+    "756eca789d2c885772316972a11b88c286c1cbc4e1daab4fbcfc217935be1197",
+    "44d86c75aac72037ea4f38c5a7da9d683b1478cf5e4971228ebe489476fb5e71"
+  ]
+}
