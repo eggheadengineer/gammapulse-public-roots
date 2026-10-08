@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-08",
+  "merkle_root": "c11e968386c32ac56b3a24c1c4849cdd65ba2253b245e2840beeea221b3942ac",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-10-08T20:01:00.255344Z",
+  "signal_count": 10,
+  "promotion_count": 0,
+  "outcome_count": 10,
+  "signal_by_bucket": {
+    "WATCHLIST": 10
+  },
+  "signal_by_direction": {
+    "LONG": 2,
+    "SHORT": 8
+  },
+  "outcome_by_label": {
+    "WIN": 2,
+    "FLAT": 4,
+    "MFE_BEYOND_TARGET": 2,
+    "LOSS": 2
+  },
+  "signal_leaves": [
+    "61472c9036998ae5076e70f00ef36f9a1e5df1196e125ef2e724aacef27739fc",
+    "326db41988cc51a1ad9ca9e23f8a380d820855f874831d84f6732c6c1fa0788f",
+    "cbbd147f07585f34680ea6d40f64f8e8e8a45224434f13affd849232fcf3a79e",
+    "4fb462b7b917592f2bdf87fa5687edb0be1fc122ac44a509a547842e629b059d",
+    "ed9cfe7e6c636347ac0f1ca9c67e9f55ae45ee75e8941032424c616821470c4e",
+    "9cbb99eef3f280b206ab996c0dd3d3ed9d83b9e0c64a5a56290e649397aaccd1",
+    "0207c25abe9a7b2e8cfc0a3c0b983ab77f6b93e6e90f897742022e517f8f8cfe",
+    "3412e22b49f725954b05d81abf0238319de7d8324a1994e22aa280583eacdbb8",
+    "dc9e237cc95dc8440944ede21696f31e22497e7f139f4c37f03484c287cb7cfd",
+    "a3e1ebf0fcbab089e26be85e41071476ed229332bcd11b20372fbed46cdc094a"
+  ],
+  "outcome_leaves": [
+    "ff8c5fec1fda96605df2036ac3fc8e3690a71727a9091066e6beda170cb471cb",
+    "8ef96a3ac33f472841de392e1bc188f036d6404013d8e3b73a51aceb3a2360b7",
+    "5fadb4c2d12b50933050a8f23c20ca9ccfddfac611017dd333f401ca15adf938",
+    "5f12dbac02c4056baec12c0b5c1c538be3e7bf2225e7ee8fbf3dc153b7d37fa7",
+    "6c26be5e4dea2de18d2ab5b7ed7982820256af10e06ab892b492185c814e30af",
+    "6fb512bf9ca4afbae8bc8eba20ebd5818a70e2b2699bd5509cd8ef162d8bbf20",
+    "81eb783f5146d449206d94b16935313d9d9e68546cf2c45921ea978860445505",
+    "ffe41cc957fe3a164f77ce7ca683de11c28952e548c5c4eb3059e595ca0a8415",
+    "d13759b48eacc3c4cc894e85be90f123cefec2983a707088e7358fffe83c5d6e",
+    "b247a93f3f27ff7f507fcf7f5a6f68f3107a9ee729caf5d2d24f5b0918889c3b"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+ "computed_utc": "2026-10-08T12:15:30.945253+00:00",
+ "count": 4,
+ "cutoff_et": "08:15",
+ "date": "2026-10-08",
+ "ids": [
+  "20261008-RKLB-SHORT-347f25",
+  "20261008-AAL-SHORT-9bef8f",
+  "20261008-SOFI-SHORT-522d94",
+  "20261008-PLTR-LONG-b49f27"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "326db41988cc51a1ad9ca9e23f8a380d820855f874831d84f6732c6c1fa0788f",
+  "4fb462b7b917592f2bdf87fa5687edb0be1fc122ac44a509a547842e629b059d",
+  "61472c9036998ae5076e70f00ef36f9a1e5df1196e125ef2e724aacef27739fc",
+  "cbbd147f07585f34680ea6d40f64f8e8e8a45224434f13affd849232fcf3a79e"
+ ],
+ "root": "793f4c2af21dd67070a7e8ea0a2afe0c125709576441cb106c029e496c1a2833"
+}
