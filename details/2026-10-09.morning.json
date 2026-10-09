@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-10-09T12:15:30.484560+00:00",
+ "count": 2,
+ "cutoff_et": "08:15",
+ "date": "2026-10-09",
+ "ids": [
+  "20261009-AAL-SHORT-0af8cd",
+  "20261009-AMD-LONG-7c8d81"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "4880cd81435752a14e376b0256dbcb84d34d20ca638dc071ebf0b6fc3b1251af",
+  "8759b9b5c1f4ac739839fccf89ff8bf3ba0d5dcf42a32c25629c36bec52dd564"
+ ],
+ "root": "628b69efbc5c80abca14dbad1ebdb59856ad495e2bc93c0522001ed6475d495e"
+}

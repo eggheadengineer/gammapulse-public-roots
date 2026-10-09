@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-09",
+  "merkle_root": "9c6716ae9866c0cdc4a65fbba54b11a718f37b0f19350d59f459d3f1518474b4",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-10-09T20:01:00.294645Z",
+  "signal_count": 9,
+  "promotion_count": 2,
+  "outcome_count": 9,
+  "signal_by_bucket": {
+    "WATCHLIST": 9
+  },
+  "signal_by_direction": {
+    "LONG": 5,
+    "SHORT": 4
+  },
+  "outcome_by_label": {
+    "WIN": 1,
+    "LOSS": 5,
+    "FLAT": 3
+  },
+  "signal_leaves": [
+    "8759b9b5c1f4ac739839fccf89ff8bf3ba0d5dcf42a32c25629c36bec52dd564",
+    "4880cd81435752a14e376b0256dbcb84d34d20ca638dc071ebf0b6fc3b1251af",
+    "bf6522989b9a632f7c45462405db2ba71f5fbd1778b0948a878969a583fce4c5",
+    "30a6a85a63d0836cf72f3a1e6d56d0bc35aa59b7e6b538b20b55701149354922",
+    "23ab7fa4b220931b8e8e33e9912031924c46ce2d457dbae426e6158275650691",
+    "a3fb06d74e432b2a81ab2d36775a1c6ae671adfd556229becb39ec85979be8e5",
+    "90289676f1ab9678b42875943afd5ee542702250c62b3f4ee37400bd83470de2",
+    "7405c0ab6480687322c03a49c62568113fd7a1614499846dface00994adf880c",
+    "8c61f427020625945d369b300cb3ea251c4fe9e878424652a3c6a23520295f3b",
+    "64fe4122be4fd341352b58bb087d6d20cac922ff630e7c4973cf99428b7b6cef",
+    "2da6eeae962293dd7b091c3fb6a039035a9a15cfe917fcf34fbe279e9ca22f2d"
+  ],
+  "outcome_leaves": [
+    "03c5f3e65a1dc8ee144421131e93d05cd4ac8870a6ed5b0eff9f7229383f478d",
+    "64d6bb2451c5fd8eb517d974cf8358fc6220a137ae68b61983aaec89aea30d29",
+    "dab2dc99182910ba1842836f533b1ddbf29d2e626faa6d03938ab9597d258ac7",
+    "e2ea0dafc4fcfb2135d9f2260de1ebaf8e9d1b46741e6080cac18aed54b28751",
+    "4f4f8897a34e3fab3e8abdd39a2e352235a92b252bc091d0d07966cbb50c652d",
+    "5a94da1c9452d152302723c6b15bcc26e78091c41e4381a0a229f3d8c9a9f1eb",
+    "a8fb0dc967e575f0a8fbf771e3d2dd061be05810d986379fa0499a1f6e2d9cc9",
+    "acff0986dd50664805462d623485aaa57d638b3ec52cd2f079e8d5fea745d06d",
+    "5514e43d5187e8fb2289e08ffcba23955fae5b2eea18e66e2a6a8f0f5bbe6ab2"
+  ]
+}
