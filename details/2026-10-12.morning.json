@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-10-12T12:15:30.564959+00:00",
+ "count": 3,
+ "cutoff_et": "08:15",
+ "date": "2026-10-12",
+ "ids": [
+  "20261012-SNAP-LONG-d5b84f",
+  "20261012-SOFI-SHORT-f130bd",
+  "20261012-COIN-LONG-064162"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "015267a6b2897d6ec10a10a788e4d04228d7c1a1cabb7a0d8401e991a1f6d4b1",
+  "0b99c26447b26b850d964e9313ae389fafb994d0249d7e49312bf5b986d36251",
+  "31b67d11626ca932bc664751e9561379acd352c92e35fcd1b9f1283be5e01a91"
+ ],
+ "root": "1b4ed3e4e43c044015cf9a51ef2e9c28aca43d7fb81ea0059d843ca3ed2b65b9"
+}
