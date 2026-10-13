@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-10-13T12:15:30.552045+00:00",
+ "count": 2,
+ "cutoff_et": "08:15",
+ "date": "2026-10-13",
+ "ids": [
+  "20261013-WFC-SHORT-b65893",
+  "20261013-RKLB-SHORT-acbfa8"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "15f9aea2445413af90418b4adde766c22128591ab33c723139ba9565688b9f3b",
+  "81ee79dad7edb372e84581130f674536c7f61ed9d3006aa0355c899a85f3a0d9"
+ ],
+ "root": "246e838ff6425da1436c16b1bd49605d038dfe721ac3ca794853905234dac17e"
+}
