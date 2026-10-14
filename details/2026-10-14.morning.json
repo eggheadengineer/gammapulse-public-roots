@@ -1,0 +1,14 @@
+{
+ "computed_utc": "2026-10-14T12:15:30.554360+00:00",
+ "count": 1,
+ "cutoff_et": "08:15",
+ "date": "2026-10-14",
+ "ids": [
+  "20261014-BAC-SHORT-9becd8"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "bbd6c7f07c39b35f88405b7f34775f37e1ac9c2a0f6c3e57234752da8da5530a"
+ ],
+ "root": "bbd6c7f07c39b35f88405b7f34775f37e1ac9c2a0f6c3e57234752da8da5530a"
+}
