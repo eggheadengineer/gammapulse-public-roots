@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-10-20T12:15:30.682104+00:00",
+ "count": 3,
+ "cutoff_et": "08:15",
+ "date": "2026-10-20",
+ "ids": [
+  "20261020-F-SHORT-a0e4e5",
+  "20261020-SLN-LONG-3b25f2",
+  "20261020-AMZN-LONG-6e5711"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "50d08ef1b7b99c9e11a066dc09ae94cea69a1128a51dd91f80b7b33e0c617eaf",
+  "5a73def72608bcdfb1a99da0870ed512c2b85e65e2691fa544f56691d2fb9b4d",
+  "b807f95c343f6132fc94053a3e2b1746efb3b2f4380970c409b98d1c6a0cdfbb"
+ ],
+ "root": "38dca727632d44690d59e772d383fe5d8114f0bd4de6711c66d17e6abc338092"
+}
