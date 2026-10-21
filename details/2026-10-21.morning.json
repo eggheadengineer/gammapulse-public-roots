@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-10-21T12:15:30.317195+00:00",
+ "count": 3,
+ "cutoff_et": "08:15",
+ "date": "2026-10-21",
+ "ids": [
+  "20261021-ABT-SHORT-bfd397",
+  "20261021-T-SHORT-7a61b9",
+  "20261021-NFLX-SHORT-d7ec51"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "282f6ff51fa6e9e85429344b95930ad0c7a75fce138409f538257022fdd81b48",
+  "6355d55a8a3e42df4f359a13d34def122651d64a78b1cb3edfa06512d078ef30",
+  "c312c44e09fe8c91c70547a4114bc760f49885847ace0546d698f5b2981b9b20"
+ ],
+ "root": "89e330564f1f78a188bb978a055a6165c80fbc1e82353bd97701f44c0f395485"
+}
