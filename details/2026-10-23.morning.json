@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-10-23T12:15:30.597290+00:00",
+ "count": 2,
+ "cutoff_et": "08:15",
+ "date": "2026-10-23",
+ "ids": [
+  "20261023-WDC-SHORT-80ed5c",
+  "20261023-BE-SHORT-5e4b1f"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "1c2a58cb0d3f533d815353df606e86b85f451ff25f36da6afbef80277774d5e0",
+  "dc173413c593aae770f8526e5f9a1a70cee53b3354b8923dba6e5ecf80c49eae"
+ ],
+ "root": "33f6739d549ec342b1a41a03007916e271d9bdd65a1b8bd5861567f52a6c9820"
+}
