@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-10-26T12:15:31.333302+00:00",
+ "count": 3,
+ "cutoff_et": "08:15",
+ "date": "2026-10-26",
+ "ids": [
+  "20261026-VALE-SHORT-a03317",
+  "20261026-INTC-SHORT-6bea5a",
+  "20261026-RIOT-SHORT-985dbd"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "1fda44fea497f4c690258ea3afee1a46a2a5e9db09fcfa6cf5fcbd81cd2c382c",
+  "5e2d5ea6e88898c7eb036471803ea40c6de568f281037592d5f23617618be91c",
+  "f125cfdbb7500dc47407a26077cfa3863b6dfe4af9af2c119f8177c1fcc34d9f"
+ ],
+ "root": "bb0e6268a85b8ae6f9dc475746b07e58396e68a2b4386c0afa96a1fb897bc3b1"
+}

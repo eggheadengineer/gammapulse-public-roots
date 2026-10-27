@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-26",
+  "merkle_root": "cb38810ea85aa0365c7b3c74d019569893c20bb0860bbaf194190161f0f23dcf",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-10-26T20:01:00.623371Z",
+  "signal_count": 11,
+  "promotion_count": 1,
+  "outcome_count": 11,
+  "signal_by_bucket": {
+    "WATCHLIST": 8,
+    "ELITE_GAP_SHORT": 3
+  },
+  "signal_by_direction": {
+    "SHORT": 9,
+    "LONG": 2
+  },
+  "outcome_by_label": {
+    "FLAT": 3,
+    "LOSS": 6,
+    "WIN": 1,
+    "MFE_BEYOND_TARGET": 1
+  },
+  "signal_leaves": [
+    "f125cfdbb7500dc47407a26077cfa3863b6dfe4af9af2c119f8177c1fcc34d9f",
+    "5e2d5ea6e88898c7eb036471803ea40c6de568f281037592d5f23617618be91c",
+    "1fda44fea497f4c690258ea3afee1a46a2a5e9db09fcfa6cf5fcbd81cd2c382c",
+    "944812df6c3eb56c00bc2191c29560fb9c140a83d76bafbb2499afca147a15ee",
+    "407f4755243c27d118c261246a86517e54a0132196aeba3d0bc77255169a2b99",
+    "d0cb01e4d477d1da69f90a68af7038488f4c53867eeeabdb661ae888a3905e00",
+    "73d9c0a6547248f7ab0ed382a000ba3d20f77f2604951f3ac0f928e02b27eeed",
+    "ddba1791cd1bea9f849f4cec0714e1fb019dc21043c4cbc12b9fc6f26d4a8761",
+    "d7b36f8bc92193312369b949467fc7d8e4add7cce6f078fc9de2380c5425851e",
+    "722cdb4aebc61b5f430f5a4b0aa119d705b8dc1f5663a6561953bd35201e9531",
+    "46dca9d9656621cb665251b850c3e7c1142b4fa90920da0474ca1fe8bd80cb42",
+    "b03f2bae6fa3872568d50a16b470a757429a539e8e80d65ced5159cc43f012e3"
+  ],
+  "outcome_leaves": [
+    "17b92bf42f266a1516c3f87b9812eec760dbd0a3bbb18ac1d8edbe5f2eb2fa22",
+    "dccb23469927e67e6c25eb42899170f0d783b37a4d4e789259631c366d76bce6",
+    "16fb27a13202bfa5f942adf7016cd5cd2d941dba18ab51df57d9f6b0c70acded",
+    "1f77554505f563c1434971dad81ff11424b7c641deac5bd523bc1ee1f2609652",
+    "3495329893cf6177ae89bfd42c60fbdd5087685e57aad40970648d33592b9ad4",
+    "ee81ef69484746b1f0aae00dcaade6ff237a096d849d8e4d26d4b1dbfccfa32f",
+    "80059f9b57f315a593a3b355139a47acfe6bcb72b4047e09d101d92601af8235",
+    "644e62229c99d5637e06b0145e67a717189eb4f38f003ffbc7b98acea4fee821",
+    "eb6fdf0bc8a043926de5593f247901c5926fe6ff6f2335daa580763f64886f50",
+    "bbf6197f196199024ce917a13e2e35f93520104813fefb5957c18451a477fd57",
+    "d9abad868ba54fbd018e29bad7e5f3ef73125dec855afe04a58652bb9f9856cd"
+  ]
+}

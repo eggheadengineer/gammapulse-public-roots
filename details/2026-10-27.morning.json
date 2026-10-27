@@ -1,0 +1,14 @@
+{
+ "computed_utc": "2026-10-27T12:15:30.333166+00:00",
+ "count": 1,
+ "cutoff_et": "08:15",
+ "date": "2026-10-27",
+ "ids": [
+  "20261027-GLW-LONG-8c3146"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "ea4b35f3a2766d4d298e3ed4d89ff591d1fe18b1211c0c7b1c851e1b2016b1c2"
+ ],
+ "root": "ea4b35f3a2766d4d298e3ed4d89ff591d1fe18b1211c0c7b1c851e1b2016b1c2"
+}
