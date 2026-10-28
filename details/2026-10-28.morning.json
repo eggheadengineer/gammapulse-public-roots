@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-10-28T12:15:30.520106+00:00",
+ "count": 2,
+ "cutoff_et": "08:15",
+ "date": "2026-10-28",
+ "ids": [
+  "20261028-VRT-LONG-cf390e",
+  "20261028-HOOD-SHORT-4a3193"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "0f6a31fea821fbdd7f5228773fdf63236279f8fe4568f33f69f2d88b7b4e21ae",
+  "643d8db0b1b2546785d2c78a344c793f186eba7901b6bb12b7f6b08f4678a013"
+ ],
+ "root": "669c7b59f2e8dd4083eeaff74c4b8e21ad36f8f5c2f0a4d9f09fc2490b8c86e8"
+}
