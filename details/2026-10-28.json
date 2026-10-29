@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-28",
+  "merkle_root": "3c32c68de8f253ed94dcf623a1cf281e3c334ecb4af245ca3969c06004643429",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v3_2026_06_18",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-10-28T20:01:00.554528Z",
+  "signal_count": 3,
+  "promotion_count": 1,
+  "outcome_count": 3,
+  "signal_by_bucket": {
+    "ELITE_GAP_SHORT": 1,
+    "WATCHLIST": 2
+  },
+  "signal_by_direction": {
+    "SHORT": 2,
+    "LONG": 1
+  },
+  "outcome_by_label": {
+    "FLAT": 1,
+    "WIN": 1,
+    "LOSS": 1
+  },
+  "signal_leaves": [
+    "0f6a31fea821fbdd7f5228773fdf63236279f8fe4568f33f69f2d88b7b4e21ae",
+    "643d8db0b1b2546785d2c78a344c793f186eba7901b6bb12b7f6b08f4678a013",
+    "4c290971511f3feb221bf4fe2c180d6699e4c0efec082152e583fb9672a97739",
+    "f3d8885b6444791d5e4fb7df0f0cb3e03622f98a2c523d72a3d716340e5da6f4"
+  ],
+  "outcome_leaves": [
+    "f25ea057da286bdd7d051a45f6877e5457eabc3e9e063a712d8bf69d5abecfbc",
+    "5efd6d5eb9f813b51dccbb9d9fd688d8406c941fd4b20525ce6b300be8576bcf",
+    "4b53f1afe892bf96b9117fee983166c3049353b947d2950e4a9d03abb60fad5d"
+  ]
+}
