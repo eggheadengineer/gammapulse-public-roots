@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-11-02T13:15:30.377516+00:00",
+ "count": 3,
+ "cutoff_et": "08:15",
+ "date": "2026-11-02",
+ "ids": [
+  "20261102-INTC-SHORT-20a312",
+  "20261102-CRWD-LONG-928181",
+  "20261102-SHOP-LONG-a9fbc6"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "768d6cdbe5632c9ef31e92aa3ece2aa699378f69407b2b53b881e6b01153d816",
+  "98d5d6669dcb140fa681f571d00dbb1c9065dd6650aad484bbc992e2b79f2520",
+  "d5bdacdae6537132fdefbeb51823f4d1c1dc23137803f16195514671422fe9bc"
+ ],
+ "root": "aebbcf6823ef5e6733964f590234e0bc6f440cb079c66c2a4c94874266c35a46"
+}
