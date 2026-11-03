@@ -1,0 +1,14 @@
+{
+ "computed_utc": "2026-11-03T13:15:30.353076+00:00",
+ "count": 1,
+ "cutoff_et": "08:15",
+ "date": "2026-11-03",
+ "ids": [
+  "20261103-ORCL-SHORT-5f6a3d"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "2f2c6df4ce99d82b833f378e873322cdec4de7a6dd741e18d5007cb184130507"
+ ],
+ "root": "2f2c6df4ce99d82b833f378e873322cdec4de7a6dd741e18d5007cb184130507"
+}

@@ -1,0 +1,20 @@
+{
+ "computed_utc": "2026-11-02T14:46:00.634155+00:00",
+ "count": 4,
+ "date": "2026-11-02",
+ "ids": [
+  "20261102-CCL-LONG-04f32e",
+  "20261102-ORCL-SHORT-c9b7be",
+  "20261102-MRVL-SHORT-b8aafc",
+  "20261102-VZ-SHORT-a56d98"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "3bc23a7d10b4e238fd792ebf5024ee005af8b1ae32d17e0e49e5e7ce178972fb",
+  "471a37b592ed4009f735f16cda356aa158f21c26e200c20b665f3d1a060e4c69",
+  "60dff4237d02ab9c79252a24dddbbecbfe453bedfd3e947f8c049a892fc92002",
+  "769cb2cf3647ceb8e516fa58db293c6a40ffb83d4f06a64f6aa74f0f8100513f"
+ ],
+ "root": "cf6ca5ef926e790522ecde7cb12df12dafb1875e5d8fd084cdb1cf317cfbb51d",
+ "window_et": "09:30-09:45"
+}
