@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-11-03T14:46:00.451797+00:00",
+ "count": 2,
+ "date": "2026-11-03",
+ "ids": [
+  "20261103-PARA-LONG-ddb41f",
+  "20261103-GRAB-LONG-ceb748"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "804dff5abf84c0eda4fc20b17331816107cc81d70e93e2abd4496c36c0eca80d",
+  "f7a87d072f520f972e0b7894aed85fe14fb14b2b323e64b7e7125a637284710a"
+ ],
+ "root": "8a85e991764a036d66d185676edca3c4e39f047bd58249353779b97c44111343",
+ "window_et": "09:30-09:45"
+}
