@@ -1,0 +1,22 @@
+{
+ "computed_utc": "2026-11-04T14:46:00.684013+00:00",
+ "count": 5,
+ "date": "2026-11-04",
+ "ids": [
+  "20261104-FTCI-LONG-09e265",
+  "20261104-NKE-LONG-f23e85",
+  "20261104-AAL-LONG-ba2cab",
+  "20261104-AMZN-LONG-86b9be",
+  "20261104-INTC-SHORT-ff3b2d"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "09e64a6dbcca686a07e7ebc78aea1a5ab622a6b16b88078b1f9817c1ef04ae96",
+  "4356a13fae1ba3b6c6dbc8a70083f6d39da967eb1ca8397134e1010ff3bfa388",
+  "6c3d827653cc274574c0d2c78e3699d8a78e2668b6ced298a6ebbc912c3c5fb7",
+  "76102d9adb91af2fd27d73052308920641888a0b519d503a22ff4ba523212939",
+  "8571d566c43e480b74b21fe68fb3b2c690a22d46400e7fe43f296dd28362c0cb"
+ ],
+ "root": "c811e5272a562d861eb077014691df70d3742342c377057baa807d92a23c1a5d",
+ "window_et": "09:30-09:45"
+}

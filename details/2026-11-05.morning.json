@@ -1,0 +1,24 @@
+{
+ "computed_utc": "2026-11-05T13:15:30.318396+00:00",
+ "count": 6,
+ "cutoff_et": "08:15",
+ "date": "2026-11-05",
+ "ids": [
+  "20261105-SNDK-SHORT-6a866d",
+  "20261105-AMZN-LONG-2666dc",
+  "20261105-SMCI-SHORT-3ed178",
+  "20261105-IREN-SHORT-0a233e",
+  "20261105-MU-SHORT-9b08ce",
+  "20261105-MRVL-SHORT-c9bbbe"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "1c700ef53e7975c3c857c560ec7c147467f8f619d0db1d1e965a0ebdd2afd6f0",
+  "9133bd0f4e4029fbd68678a8e3986496b4ac3b01a241173c5d86186e8bb4271c",
+  "9690c49030e676abefe216d763438fcb0e97db4178d1305121cb3d5fd4053034",
+  "f584752208fabf00f32f7bfe4d971a3b4bda4d84e3d11f85d83b8a4b47f29f79",
+  "fc62d39ffc7b01acfb61bea60fac5e86e9b3a254761382851a191e7b8c44eee2",
+  "fdf257797bd00daeb018645760ed180cba41fa9370a90414865954ddbcccee3d"
+ ],
+ "root": "2eb903b5744c211a62169aa85672b2b3a9df9b7817a1dd6262205a1a70655f38"
+}
