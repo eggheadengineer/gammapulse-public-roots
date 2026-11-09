@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-11-06T14:46:00.352770+00:00",
+ "count": 2,
+ "date": "2026-11-06",
+ "ids": [
+  "20261106-DKNG-SHORT-6bab6d",
+  "20261106-NFLX-SHORT-af07c8"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "3ed395ccfa600edb6e65707b41b00dfab3a55cf373e901409ffacec24fc6e32b",
+  "8ea4040eba29fba63b90d58e1ab9a4a433baa72fbe577f441e8933be48c6b645"
+ ],
+ "root": "f32af824a2b7d7a0c735595a645039c61acce37af716a80584714eb3b63add0b",
+ "window_et": "09:30-09:45"
+}
