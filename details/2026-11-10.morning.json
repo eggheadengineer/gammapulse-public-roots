@@ -1,0 +1,24 @@
+{
+ "computed_utc": "2026-11-10T13:15:30.462292+00:00",
+ "count": 6,
+ "cutoff_et": "08:15",
+ "date": "2026-11-10",
+ "ids": [
+  "20261110-MRVL-SHORT-3caa98",
+  "20261110-MU-SHORT-37e6a6",
+  "20261110-RKLB-SHORT-52d0de",
+  "20261110-SNAP-SHORT-023dc5",
+  "20261110-INTC-SHORT-c105d6",
+  "20261110-HIMS-SHORT-bf5543"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "0f818699d9421206ed415721e3f20e5e80095944773da8b2675642e2e95f0176",
+  "318a99695ebbf9d2a81b6a3d7fe594901879cc0e3d85e162b2acd7b9ac7354ea",
+  "3e61e2a0559d07d3facc7ebbdb390a57148f9caaeed8a97a9a04e5184541b074",
+  "5fc9ce289306140efb27384aa61154b33cf3aca36be9f585f1be3ee613fbee3f",
+  "d119c32dd99967ef1860c65effbabc8b7c6217dde640f6af6f20f5a4cce2e517",
+  "dac7c6385f8368d51c8e8b0e0a3eb0e0feba56a76ceeaf6aabd803ba8dcaad07"
+ ],
+ "root": "bc2eaf4212f3685bd9c2ad425f088d8d30fbc5a4c65890bfc8aa4c005a5f6d66"
+}

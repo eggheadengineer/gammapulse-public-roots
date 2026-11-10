@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-11-09T14:46:00.903440+00:00",
+ "count": 3,
+ "date": "2026-11-09",
+ "ids": [
+  "20261109-HIMS-SHORT-f44073",
+  "20261109-AMC-LONG-7f5504",
+  "20261109-AAL-LONG-598b5f"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "430a7b2855d041d16eba4b8341f57ddf7c4397386b2c363472fa52c76db8a402",
+  "f4b2a383a7f94fb19a1ec972ba42a23a81aa1bfb203b35085a09a1d351ea46ae",
+  "ffdc8b54568c7020be49993cf5267712108c76f65ffcc5b056e59bfa8dfbbb4e"
+ ],
+ "root": "ad91168a97d36d88562c03570d23b90a19f67b782be6e756775e9b0393a51b10",
+ "window_et": "09:30-09:45"
+}
