@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-11-11T13:15:30.605868+00:00",
+ "count": 3,
+ "cutoff_et": "08:15",
+ "date": "2026-11-11",
+ "ids": [
+  "20261111-AMD-LONG-698d35",
+  "20261111-RIOT-LONG-4f6855",
+  "20261111-PBR-SHORT-183b36"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "7a84e961c37f71a9e4b1ffbba4f15ae2c178176712e7e3f5041c2093a3d45dbe",
+  "95c8043cacd6568d9d374cf960dbcb8df7e3f2b18663664887d340eb0a2e32c3",
+  "d3c28496e844961d1254bd47a8297becb9ccc938c1547bd18ec4f2ec9017a636"
+ ],
+ "root": "01f314c50d3257522ffd4e19f795c6d2d76bf2c89fa249365d7f1d5935157356"
+}
