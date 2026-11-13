@@ -1,0 +1,24 @@
+{
+ "computed_utc": "2026-11-12T14:46:00.559512+00:00",
+ "count": 6,
+ "date": "2026-11-12",
+ "ids": [
+  "20261112-AVGO-LONG-e2c8e9",
+  "20261112-BE-SHORT-28ade0",
+  "20261112-BABA-SHORT-dcd7ea",
+  "20261112-RIVN-SHORT-24620c",
+  "20261112-NVDA-SHORT-1196f5",
+  "20261112-NU-SHORT-be646c"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "2d85e3a25de106d874850d0245610335bf94ee5f3c097b36f32e140943cd01ec",
+  "4d49a7f42fcd345b57231568be65c40c8c63433fa65fe434e514bacec86b8484",
+  "7ff31fa7e1722c5c6acab30f32126b4d7407829b19cc5e6a501a906ff953eab3",
+  "8f6d248ec1ad68b2fe278cbb943eacc26b23a9adac2cc563976f800c62f26256",
+  "9a12e6a035134bffce1b177a9c629b1727441d4e6e14de97f557d9206f16a9f6",
+  "d95f04073261af0daaf2e3b2d1e853d122bbd80d79213cbd66c89be5dd794e04"
+ ],
+ "root": "2f8ecdb5cd5263c85b4a24f89f4749371992912cd819a0ed0d174899f3391e21",
+ "window_et": "09:30-09:45"
+}
