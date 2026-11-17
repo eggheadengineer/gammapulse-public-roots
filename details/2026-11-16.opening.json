@@ -1,0 +1,18 @@
+{
+ "computed_utc": "2026-11-16T14:46:00.472153+00:00",
+ "count": 3,
+ "date": "2026-11-16",
+ "ids": [
+  "20261116-HOOD-SHORT-b38afb",
+  "20261116-MARA-SHORT-c8a06f",
+  "20261116-MRVL-SHORT-29e0c6"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "5bafb014eb99c91cc0185dc42f7214c4989fd8786259bfba9335a19c2d64680a",
+  "635f7dbd943792c58b2a5723752c28da2638d7f50b435b0043c8d3bef76d2f1e",
+  "b75688d1b18094e52c2027f3eea00a176151baea69f55654f061900d109852e6"
+ ],
+ "root": "20dec9f6e570978cfcaa49a6d2c42ea84947081e6a7f0e08772399c7742568c7",
+ "window_et": "09:30-09:45"
+}
