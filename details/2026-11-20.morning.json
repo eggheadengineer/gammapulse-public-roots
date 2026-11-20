@@ -1,0 +1,22 @@
+{
+ "computed_utc": "2026-11-20T13:15:30.619797+00:00",
+ "count": 5,
+ "cutoff_et": "08:15",
+ "date": "2026-11-20",
+ "ids": [
+  "20261120-AMD-SHORT-280753",
+  "20261120-MRVL-SHORT-daacef",
+  "20261120-BE-SHORT-50bc91",
+  "20261120-MU-SHORT-db99c9",
+  "20261120-INTC-SHORT-d1cdc8"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "066e5caf935a84084dcba99e0b8924597804140bf5c5e050a50e3c2e69990364",
+  "4697c9258401e36e99beb364cf7af305ed62ff834d3989b975f41b1357f1e4fb",
+  "ab83a246ca5f34dcdd0a3895fb93ea93bfc150bb081463b392395a1f689d8611",
+  "d12c6696c6a8b67b622b092f1d7271bb02d8065943960d6d968b1219a1d42554",
+  "ef19e7a834fd37865cb31131a9731912f0cd02b5578136debb741de6dec2faa8"
+ ],
+ "root": "45241128a4ed01f915f9150dac8397cc6ba9ac4da1cf8a9d871d9e1fae409351"
+}

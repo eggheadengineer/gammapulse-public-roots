@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-19",
+  "merkle_root": "f0ae9e694ec7fab3d09212517bac5a511dfdabd4a1911f066593f122d8dbd6b3",
+  "ledger_schema_version": "1.0.0",
+  "methodology_version": "gap_elite_data_aware_v4_stopfloor_rr15_2026_10_31",
+  "engine_version": "gap_elite_data_aware_v3",
+  "computed_at_utc": "2026-11-19T21:01:00.418790Z",
+  "signal_count": 2,
+  "promotion_count": 0,
+  "outcome_count": 2,
+  "signal_by_bucket": {
+    "WATCHLIST": 1,
+    "ELITE_GAP_LONG": 1
+  },
+  "signal_by_direction": {
+    "LONG": 2
+  },
+  "outcome_by_label": {
+    "LOSS": 2
+  },
+  "signal_leaves": [
+    "1a0ebbc5c45052e8a9829d5897146bbd37b2483a8c3b2decc232eac28595b0d5",
+    "27f345ab15968474f38c14e0af41ddb165de2d6c899321847eee22062481a2ce"
+  ],
+  "outcome_leaves": [
+    "568df17792f12cf3301e182e8fdb9ead4ae777c290378a9ab21c2abddae78306",
+    "658fea07711de5bcd8a303060ac6c0047980fd556c76f32f202b573841f875ba"
+  ]
+}

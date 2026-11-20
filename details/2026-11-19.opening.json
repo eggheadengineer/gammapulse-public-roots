@@ -1,0 +1,16 @@
+{
+ "computed_utc": "2026-11-19T14:46:00.623729+00:00",
+ "count": 2,
+ "date": "2026-11-19",
+ "ids": [
+  "20261119-PDD-LONG-5dde2d",
+  "20261119-RIOT-LONG-f45c63"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "1a0ebbc5c45052e8a9829d5897146bbd37b2483a8c3b2decc232eac28595b0d5",
+  "27f345ab15968474f38c14e0af41ddb165de2d6c899321847eee22062481a2ce"
+ ],
+ "root": "b3e8d7d6a99767fe7b01a6eb02866ec91a1595f210b714f59d24017fbe0ddd67",
+ "window_et": "09:30-09:45"
+}
