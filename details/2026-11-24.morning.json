@@ -1,0 +1,14 @@
+{
+ "computed_utc": "2026-11-24T13:15:30.626430+00:00",
+ "count": 1,
+ "cutoff_et": "08:15",
+ "date": "2026-11-24",
+ "ids": [
+  "20261124-INTC-SHORT-ae8d4d"
+ ],
+ "kind": "morning_list",
+ "leaves": [
+  "93034d032a9f2af50adbf8e36d6de4ee156b9488cfd63a4f1bac3b3fb373542a"
+ ],
+ "root": "93034d032a9f2af50adbf8e36d6de4ee156b9488cfd63a4f1bac3b3fb373542a"
+}
