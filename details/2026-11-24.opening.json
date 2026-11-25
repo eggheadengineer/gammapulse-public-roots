@@ -1,0 +1,20 @@
+{
+ "computed_utc": "2026-11-24T14:46:01.703657+00:00",
+ "count": 4,
+ "date": "2026-11-24",
+ "ids": [
+  "20261124-MU-SHORT-5c0fc8",
+  "20261124-HPE-SHORT-64dafc",
+  "20261124-SNDK-SHORT-d505e6",
+  "20261124-AMD-SHORT-183473"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "029d5292ee8848eabd9c6ca36b2b0f0793b046c34cf143eb5922055baa5c767b",
+  "977a69e11ea73ce8699b15a9ecd87df8feb8867b3a585745f4827f688a8806d9",
+  "ae34e32bba4a5fd572a553f315f4fc18fecbc4a5c939d043f85e65152bb18fb1",
+  "e8d4fd48eed4c06390c69cd6a459a736204c2b933f3d30317db3147acf5250dd"
+ ],
+ "root": "fa8a1a57c94f3346aa6b537a68791b003fb0c0358f8d891c27510e665da415d4",
+ "window_et": "09:30-09:45"
+}
