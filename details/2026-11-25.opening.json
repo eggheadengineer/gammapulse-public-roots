@@ -1,0 +1,22 @@
+{
+ "computed_utc": "2026-11-25T14:46:00.665900+00:00",
+ "count": 5,
+ "date": "2026-11-25",
+ "ids": [
+  "20261125-SNDK-SHORT-ee6a8f",
+  "20261125-INTC-SHORT-fff670",
+  "20261125-MRVL-SHORT-2816eb",
+  "20261125-RIOT-SHORT-05e71c",
+  "20261125-AMAT-SHORT-29377e"
+ ],
+ "kind": "opening_list",
+ "leaves": [
+  "1c3ef9778267bebee9a7a7d0bc3502a9d9902bb2fb1f360761f8d5e3942912bf",
+  "8c66132e2a187ba56275944dbc4034b14342cd6f5bfa0592daca9c9e9cea766a",
+  "8eeec3fde55bdf3561b524062e79ea70f812e3f962efb665801e3956a90e5b37",
+  "a58cc568db3fe6cb558fb79c44658042ac3ba0d6c9920dd1a586388d1fe42898",
+  "fbabca6e8829898d2368a67004f09c1dd40563cb6922f5fcc7eb53fc75f404b6"
+ ],
+ "root": "bdecf1d336ee2f4a073709ebb219a53d4c1454861b7d45d753f527cb1445ed89",
+ "window_et": "09:30-09:45"
+}
